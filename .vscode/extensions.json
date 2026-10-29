@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.datawrangler",
+    "charliermarsh.ruff",
+    "mechatroner.rainbow-csv"
+  ]
+}
